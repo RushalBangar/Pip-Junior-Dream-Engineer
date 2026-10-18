@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "pips-midnight-nursery",
+  "description": "Pip's Midnight Nursery — Interactive Dream Engineering Lab & Character Portfolio for haX.baby's Baby's First Website Hackathon",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
