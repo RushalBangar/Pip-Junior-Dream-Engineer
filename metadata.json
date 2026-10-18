@@ -1,0 +1,6 @@
+{
+  "name": "Pip — Junior Dream Engineer at Midnight Nursery",
+  "description": "An interactive character portfolio for Pip the Skull Baby, Junior Dream Engineer at Midnight Nursery. Created for the haX.baby Baby's First Website Hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

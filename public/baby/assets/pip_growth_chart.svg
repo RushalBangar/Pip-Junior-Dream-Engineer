@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" fill="none">
+  <defs>
+    <linearGradient id="woodGrain" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FDE68A" />
+      <stop offset="100%" stop-color="#FCD34D" />
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="180" cy="232" rx="125" ry="15" fill="#EED6DF" opacity="0.65" />
+
+  <!-- Wooden Nursery Doorframe Ruler -->
+  <rect x="78" y="18" width="76" height="214" rx="10" fill="url(#woodGrain)" stroke="#3A2721" stroke-width="3.5" />
+  
+  <!-- Ruler Markings -->
+  <line x1="78" y1="48" x2="112" y2="48" stroke="#3A2721" stroke-width="3" stroke-linecap="round" />
+  <text x="118" y="52" fill="#3A2721" font-family="monospace" font-weight="bold" font-size="11">28.5"</text>
+
+  <line x1="78" y1="84" x2="102" y2="84" stroke="#3A2721" stroke-width="2.2" stroke-linecap="round" />
+  <text x="118" y="88" fill="#5C4033" font-family="monospace" font-size="10">25.0"</text>
+
+  <line x1="78" y1="120" x2="108" y2="120" stroke="#3A2721" stroke-width="2.5" stroke-linecap="round" />
+  <text x="118" y="124" fill="#5C4033" font-family="monospace" font-size="10">22.0"</text>
+
+  <line x1="78" y1="156" x2="100" y2="156" stroke="#3A2721" stroke-width="2.2" stroke-linecap="round" />
+  <text x="118" y="160" fill="#5C4033" font-family="monospace" font-size="10">19.5"</text>
+
+  <line x1="78" y1="192" x2="106" y2="192" stroke="#3A2721" stroke-width="2.5" stroke-linecap="round" />
+  <text x="118" y="196" fill="#5C4033" font-family="monospace" font-size="10">14.0"</text>
+
+  <!-- Dashed Height Marker Line to Pip -->
+  <line x1="154" y1="48" x2="265" y2="48" stroke="#A34063" stroke-width="2.5" stroke-dasharray="5 5" />
+  <circle cx="154" cy="48" r="5" fill="#A34063" />
+
+  <!-- Mini Pip Standing on Cloud Cushion Next to Ruler -->
+  <g transform="translate(232, 48)">
+    <!-- Nightcap -->
+    <path d="M-26 32 C-22 -4 12 -14 38 4 C24 8 18 18 22 32 Z" fill="#4C3D75" stroke="#3A2721" stroke-width="2.8" />
+    <circle cx="40" cy="6" r="6" fill="#FBBF24" stroke="#3A2721" stroke-width="2" />
+    <!-- Pink Bow -->
+    <circle cx="-18" cy="28" r="6" fill="#EC4899" stroke="#3A2721" stroke-width="2" />
+    <!-- Skull Head -->
+    <circle cx="0" cy="52" r="30" fill="#FFFFFF" stroke="#3A2721" stroke-width="3" />
+    <circle cx="-10" cy="52" r="8" fill="#271C22" />
+    <circle cx="10" cy="52" r="8" fill="#271C22" />
+    <circle cx="-10" cy="52" r="3.8" fill="#FBBF24" />
+    <circle cx="10" cy="52" r="3.8" fill="#FBBF24" />
+    <path d="M-8 66 Q0 72 8 65" stroke="#3A2721" stroke-width="2.2" stroke-linecap="round" />
+    <!-- Pajama Body -->
+    <rect x="-20" y="80" width="40" height="48" rx="14" fill="#F4C6D7" stroke="#3A2721" stroke-width="2.8" />
+    <!-- Cloud Base -->
+    <ellipse cx="0" cy="142" rx="46" ry="18" fill="#FFFFFF" stroke="#3A2721" stroke-width="2.8" />
+  </g>
+</svg>
